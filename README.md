@@ -1,16 +1,20 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently developing android projects
+👯 I’m looking to work as an Android developer
+🤝 I’m looking for help with
+🌱 I’m currently enhancing my skills of flutter and jetpack as well
+⚡Developer many real world project which are live working
 
-<!--
-**mayur0614/mayur0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [Mastodon](https://mastodon.social/@Mayur Chaudhari) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Dart Java Kotlin Flutter Apache Tomcat Firebase SQLite Figma Git GitHub Actions Cisco Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing android projects <br>👯 I’m looking to work as an Android developer<br>🤝 I’m looking for help with<br>🌱 I’m currently enhancing my skills of flutter and jetpack as well <br>⚡Developed many real world project which are live working 
+🔭 I’m currently working as an android developr in MDATECHSYS <br>👯 I’m currently learning Blockchain (for dApps)<br>🤝 I’m looking for team to work collaboratively <br>🌱 I’m currently enhancing my skills of springboot and blockchain as well <br>⚡Developed many real world project which are live working 
 
 
 ## 🌐 Socials:
